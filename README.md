@@ -3,7 +3,7 @@
 Discourse is the 100% open source discussion platform built for the next decade of the Internet. It works as:
 
 - a mailing list
-- a discussion forum
+- a  discussion forum
 - a long-form chat room
 
 To learn more about the philosophy and goals of the project, [visit **discourse.org**](http://www.discourse.org).
